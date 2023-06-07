@@ -39,4 +39,12 @@ let strin = "Apple, Banana, Kiwi";
 let part7 = strin.substring(7);
 console.log(part7)
 
+let st = "Apple, Banana, Kiwi";
+let part9 = st.slice(-4);
+console.log(part9);
+
+function myFunction (){
+    let text1=document.getElementById(demo) .innerHtml=text.replace("Microsoft", "W3Schools");
+}
+
 
