@@ -32,4 +32,11 @@ alert(part4);
 
 let str = "Apple, Banana, Kiwi";
 let part5 = str.substring(7, 13);
+alert(part5)
+let stri = "Apple, Banana, Kiwi";
+let part6 = stri.substring(7, 6);
+let strin = "Apple, Banana, Kiwi";
+let part7 = strin.substring(7);
+console.log(part7)
+
 
