@@ -26,7 +26,10 @@ alert(part);
 let part2 = text.slice(7);
 console.log (part2);
 let part3 = text.slice(-17);
-alert(part3)
-
+alert(part3);
 let part4 = text.slice(-12, -6);
 alert(part4);
+
+let str = "Apple, Banana, Kiwi";
+let part5 = str.substring(7, 13);
+
